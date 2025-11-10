@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-curreny</string>
+    <string name="from_currency_label">From</string>
+    <string name="to_currency_label">To</string>
+    <string name="input_label">Input</string>
+    <string name="output_label">Output</string>
+</resources>
