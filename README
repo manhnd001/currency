@@ -1,0 +1,6 @@
+Lập trình ứng dụng chuyển đổi tiền tệ với các yêu cầu:
++ Cho phép chuyển đổi ít nhất 10 loại tiền tệ.
++ Sử dụng tỷ giá cố định, thiết lập sẵn trong mã nguồn.
++ Sử dụng spinner để  chọn đồng tiền muốn chuyển đổi. Sử dụng EditText để nhập số tiền muốn chuyển.
++ Thực hiện việc tự động chuyển đổi khi thay đổi nội dung EditText.
++ Khi thay đổi nội dung của EditText này thì nội dung EditText còn lại tự động cập nhật.
