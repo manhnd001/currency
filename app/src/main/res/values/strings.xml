@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="input_label">Nhập số tiền</string>
+    <string name="output_label">Kết quả</string>
+    <string name="from_currency_label">Từ</string>
+    <string name="to_currency_label">Sang</string>
+</resources>
